@@ -47,7 +47,8 @@ To enable public access to the website:
 - Select `Host a static website` as the hosting type.
 - Set `index.html` as the **Index Document**.
 - Modify the **ACL (Access Control List)** to allow public access.
-- ![ACLs](images/img2.png)
+
+ ![ACLs](images/img2.png)
 
 ### 4. Bucket Endpoint & Public Access
 - Once static website hosting is enabled, AWS provides a **Bucket Endpoint URL**.
