@@ -17,7 +17,7 @@ Amazon S3 is a storage service where each **S3 bucket name is globally unique**.
 - Creating a bucket takes less than **2 minutes**.
 - **Selected Region:** `US East (N. Virginia) us-east-1`.
 - Ensure that the **bucket name is globally unique**.
-- ![Amazon S3 Setup](https://your-bucket-name.s3.amazonaws.com/s3-setup.png)
+- ![Create Bucket](images/bucket.png)
 
 
 ### 2. Upload Website Files
