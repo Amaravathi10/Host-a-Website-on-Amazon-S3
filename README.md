@@ -6,7 +6,7 @@ Amazon S3 (Simple Storage Service) allows users to store and retrieve data, incl
 
 ## Project Details
 - **Author:** P. Amaravathi
-- **Platform:** [NextWork.org](https://community.nextwork.org/c/i-have-a-question?automatic_login=true)
+- **Platform:** [NextWork.org](https://www.nextwork.org/)
 - **Estimated Completion Time:** 15 minutes
 
 ## What is Amazon S3?
