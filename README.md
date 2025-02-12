@@ -5,7 +5,7 @@ This project demonstrates how to host a static website using **Amazon S3**.
 Amazon S3 (Simple Storage Service) allows users to store and retrieve data, including website files, in highly scalable storage buckets.
 
 ## Project Details
-- **Author:** P. Amaravathi
+- **Author:** Pobbathi Amaravathi
 - **Platform:** [NextWork.org](https://www.nextwork.org/)
 - **Estimated Completion Time:** 15 minutes
 
@@ -60,7 +60,8 @@ To enable public access to the website:
 ### 5. Success!
 - After adjusting the permissions, the static website will be publicly accessible.
 - The project successfully demonstrates hosting a website on Amazon S3.
-- ![WEB](images/website.png)
+
+  ![WEB](images/website.png)
 
 ### 📣NOTE:
 Delete all your resources by the end of the day, even if you don't finish the entire project.
