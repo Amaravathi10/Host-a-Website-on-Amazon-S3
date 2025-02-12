@@ -55,7 +55,8 @@ To enable public access to the website:
 - To fix this:
   - Select `index.html` and the asset files.
   - Click **Actions** → `Make public using ACL`.
-  - ![A](images/img3.png)
+    
+![A](images/img3.png)
 
 ### 5. Success!
 - After adjusting the permissions, the static website will be publicly accessible.
