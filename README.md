@@ -24,6 +24,7 @@ Key Points:
 Think of it like a super-reliable, infinitely large hard drive in the cloud that you can access from anywhere.
 
 
+
 ## Steps to Host a Website on S3
 
 ### 1. Create an S3 Bucket
